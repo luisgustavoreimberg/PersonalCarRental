@@ -1,0 +1,103 @@
+# Diretórios
+bin/
+obj/
+
+# Arquivos de compilação
+*.exe
+*.pdb
+*.dll
+
+# Arquivos de publicação
+*.publish.xml
+*.pubxml
+*.publishsettings
+
+# Arquivos temporários gerados pela Visual Studio
+*.user
+*.vscode
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração
+*.suo
+*.cache
+*.bak
+
+# Arquivos temporários
+[Tt]emp/
+[Vv]isual[Ss]tudio[Oo]nline/
+
+# Arquivos de projeto específicos
+*.csproj.user
+
+# Ferramentas de desenvolvimento
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+# Arquivos de NuGet
+packages/
+*.nupkg
+*.paket.restore.log
+*.paket.references
+
+# Ferramentas de construção
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Arquivos de análise estática
+*.codeanalysis
+
+# Arquivos do Rider
+.idea/
+
+# Comentários do GitHub Action
+/.github
+
+# Arquivos do Visual Studio Code
+.vscode/
+
+# Logs do Unity3D
+sysinfo.txt
+
+# Dependências do Node.js
+node_modules/
+
+# Dependências do Xamarin
+*.apk
+*.ap_
+
+# Arquivos de histórico de testes
+TestResult/
+[Tt]est[Rr]esult*/
+*.trx
+
+# Arquivos de sessão do Rider
+*.idea/workspace.xml
+*.idea/tasks.xml
+
+# Arquivos de história de repositório Git
+*.git-blame
+
+# Arquivos de build do dotCover
+*.dotCover
+
+# Arquivos de backup do Rider
+.idea/*.tasks
+
+# Logs do TeamCity
+/logs/
+
+# Ferramentas de fluxo de trabalho do Azure
+/.terraform/
+
+# Dependências do SDK do Android
+*.aar
+
+# Dependências do Gradle
+.gradle/
+
+# Dependências do Maven
+target/
